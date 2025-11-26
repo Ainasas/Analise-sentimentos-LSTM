@@ -1,4 +1,6 @@
+# Classificação de Sentimento de Críticas de Filmes (IMDB)
 
+Este projeto implementa e treina uma **Rede Neural Recorrente Long Short-Term Memory (LSTM)** para classificar automaticamente o sentimento de críticas de filmes como **Positivo** ou **Negativo**. O modelo foi desenvolvido utilizando o Google Colab e as bibliotecas TensorFlow/Keras.
 
 ### 🧠 Conceitos Aplicados
 
